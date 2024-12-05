@@ -1,6 +1,6 @@
 # ShopEasy Chatbot
 
-This is a customer support chatbot for **ShopEasy**, designed to assist customers with their queries. It uses **LM Studio** (with Llama-3.2) for natural language processing and **FAISS** (Facebook AI Similarity Search) for fast retrieval of relevant responses from a pre-existing set of labeled training data.
+This is a customer support chatbot for **ShopEasy** (An Imaginery E-Commerce Platform), designed to assist customers with their queries. It uses **LM Studio** (with Llama-3.2) for natural language processing and **FAISS** (Facebook AI Similarity Search) for fast retrieval of relevant responses from a pre-existing set of labeled training data.
 
 ## Features
 - **Real-time chat interface** powered by **Streamlit**.
